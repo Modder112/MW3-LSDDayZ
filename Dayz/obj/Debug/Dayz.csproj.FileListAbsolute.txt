@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\bin\Debug\Dayz.dll
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\bin\Debug\Dayz.pdb
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\obj\Debug\Dayz.csprojResolveAssemblyReference.cache
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\obj\Debug\Dayz.dll
+c:\users\agando\documents\visual studio 2012\Projects\Dayz\Dayz\obj\Debug\Dayz.pdb
